@@ -1,0 +1,15 @@
+C:\Users\hegde.aaryan\Documents\NTI_programmering\MAtte\Epidemi\bin\Debug\net6-windows\Epidemi.exe
+C:\Users\hegde.aaryan\Documents\NTI_programmering\MAtte\Epidemi\bin\Debug\net6-windows\Epidemi.deps.json
+C:\Users\hegde.aaryan\Documents\NTI_programmering\MAtte\Epidemi\bin\Debug\net6-windows\Epidemi.runtimeconfig.json
+C:\Users\hegde.aaryan\Documents\NTI_programmering\MAtte\Epidemi\bin\Debug\net6-windows\Epidemi.dll
+C:\Users\hegde.aaryan\Documents\NTI_programmering\MAtte\Epidemi\bin\Debug\net6-windows\Epidemi.pdb
+C:\Users\hegde.aaryan\Documents\NTI_programmering\MAtte\Epidemi\obj\Debug\net6-windows\Epidemi.csproj.AssemblyReference.cache
+C:\Users\hegde.aaryan\Documents\NTI_programmering\MAtte\Epidemi\obj\Debug\net6-windows\Epidemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hegde.aaryan\Documents\NTI_programmering\MAtte\Epidemi\obj\Debug\net6-windows\Epidemi.AssemblyInfoInputs.cache
+C:\Users\hegde.aaryan\Documents\NTI_programmering\MAtte\Epidemi\obj\Debug\net6-windows\Epidemi.AssemblyInfo.cs
+C:\Users\hegde.aaryan\Documents\NTI_programmering\MAtte\Epidemi\obj\Debug\net6-windows\Epidemi.csproj.CoreCompileInputs.cache
+C:\Users\hegde.aaryan\Documents\NTI_programmering\MAtte\Epidemi\obj\Debug\net6-windows\Epidemi.dll
+C:\Users\hegde.aaryan\Documents\NTI_programmering\MAtte\Epidemi\obj\Debug\net6-windows\refint\Epidemi.dll
+C:\Users\hegde.aaryan\Documents\NTI_programmering\MAtte\Epidemi\obj\Debug\net6-windows\Epidemi.pdb
+C:\Users\hegde.aaryan\Documents\NTI_programmering\MAtte\Epidemi\obj\Debug\net6-windows\Epidemi.genruntimeconfig.cache
+C:\Users\hegde.aaryan\Documents\NTI_programmering\MAtte\Epidemi\obj\Debug\net6-windows\ref\Epidemi.dll

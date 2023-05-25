@@ -1,0 +1,6 @@
+C:\Users\hegde.aaryan\Documents\NTI_programmering\MAtte\Epidemi\obj\Debug\net48-windows\Epidemi.csproj.AssemblyReference.cache
+C:\Users\hegde.aaryan\Documents\NTI_programmering\MAtte\Epidemi\obj\Debug\net48-windows\Epidemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\hegde.aaryan\Documents\NTI_programmering\MAtte\Epidemi\obj\Debug\net48-windows\Epidemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hegde.aaryan\Documents\NTI_programmering\MAtte\Epidemi\obj\Debug\net48-windows\Epidemi.AssemblyInfoInputs.cache
+C:\Users\hegde.aaryan\Documents\NTI_programmering\MAtte\Epidemi\obj\Debug\net48-windows\Epidemi.AssemblyInfo.cs
+C:\Users\hegde.aaryan\Documents\NTI_programmering\MAtte\Epidemi\obj\Debug\net48-windows\Epidemi.csproj.CoreCompileInputs.cache

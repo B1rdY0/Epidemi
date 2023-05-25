@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hegde.aaryan\\Documents\\NTI_programmering\\MAtte\\Epidemi\\Epidemi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hegde.aaryan\\Documents\\NTI_programmering\\MAtte\\Epidemi\\Epidemi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hegde.aaryan\\Documents\\NTI_programmering\\MAtte\\Epidemi\\Epidemi.csproj",
+        "projectName": "Epidemi",
+        "projectPath": "C:\\Users\\hegde.aaryan\\Documents\\NTI_programmering\\MAtte\\Epidemi\\Epidemi.csproj",
+        "packagesPath": "C:\\Users\\hegde.aaryan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hegde.aaryan\\Documents\\NTI_programmering\\MAtte\\Epidemi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hegde.aaryan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
